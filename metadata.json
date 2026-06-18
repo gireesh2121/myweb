@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Management and E-Commerce System",
+  "description": "An all-in-one luxurious Cafe Management and E-Commerce website featuring online ordering, a real-time order tracking pipeline, digital loyalty reward stamps, online table reservations, interactive financial reporting, and comprehensive admin inventory counters.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
